@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background: #000;
+  color: #fff;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 2.5em;
+  text-align: left; }
+
+#container {
+  width: 60vw; }
